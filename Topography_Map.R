@@ -148,5 +148,5 @@ print(paste("Variable:", names(nc_data)))
 print(paste("Dimensions:", paste(dim(nc_data), collapse = " x ")))
 
 ggsave(
-  filename = "topography_map_high_quality.png", plot = plot_transformed, device = "png",
+  filename = "Topography_Map.png", plot = plot_transformed, device = "png",
  path = getwd(), width = 16,height = 9, units = "in", dpi = 300, bg = "white")
