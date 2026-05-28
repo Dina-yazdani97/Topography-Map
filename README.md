@@ -2,7 +2,7 @@
 (30DayMapChallenge)\
 This repository demonstrates how to create a global topography map using R programming language.
 
-🧰 Tools & Libraries
+🧰 Tools & Libraries\
 This project uses the following R packages:
  
 library(rnaturalearth)\
